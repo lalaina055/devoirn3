@@ -1,15 +1,31 @@
 
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
-‹div id="webaddress">
-«a href="isaac@applesdofall.org">isaac@applesdofall.org</a> | ‹a href="http://en.wikipedia.org/wiki/Isaac Newton">My wikipedia page</
-</div>
-## Currently
-Standing on the shoulders of giants
-### Specialized in
-Laws of motion, gravitation, minting coins, disliking [Robert Hookel (http
-### Research interests
-Cooling, power series, optics, alchemy, planetary motions, apples.
-## Education
-' 1654-1660'
-_The King's School, Grantham._
+ <span style="color: #2E86C1;">TOLORANJANAHARY Rotsy Lalaina</span>  
+📍 *Paris, France* | ✉ **toloranjanahary05@icloud.com** | 🔗 [GitHub](https://github.com/votreprofil)  
+
+---
+
+## <span style="background-color: #F7DC6F; padding: 3px;">🎓 Formation</span>  
+- **2024-2025** | **Licence 1 en Sciences du Langage**  
+  *Sorbonne Nouvelle - Paris 3*  
+- **2023-2024** | **Baccalauréat**
+  *Lycée Jean-Jacques Rousseau, Sarcelles*  
+
+---
+
+## <span style="background-color: #F7DC6F; padding: 3px;">💼 Expérience</span>  
+- **2018-2021** | **Bénévolat : Babysitting**  
+  *Crèche de Matehotia, Madagascar*  
+  - Garde d’enfants, organisation d’activités ludiques.  
+  - Sensibilisation à l’hygiène et sécurité.  
+
+---
+
+## <span style="background-color: #F7DC6F; padding: 3px;">🛠 Compétences</span>  
+- **Langues** : Malagasy (langue maternelle), Français (courant), Anglais (niveau C1)  
+    
+- **Soft Skills** : Dynamique, rigoureuse, esprit d’équipe  
+
+---
+
+## <span style="background-color: #F7DC6F; padding: 3px;">🌍 Centres d’intérêt</span>  
+📚 Lecture (linguistique, sociologie) | 🎨 Dessin | 🌱 Bénévolat  
